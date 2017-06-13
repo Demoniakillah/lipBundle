@@ -20,7 +20,7 @@
     "require-dev": {
     },
     "autoload": {
-        "psr-4": { "Lip\\": "vendor/demoniakillah/lipbundle/" }
+        "psr-0": { "Lip\\": "lib/" }
     },
     "autoload-dev": {
         "psr-0": {
