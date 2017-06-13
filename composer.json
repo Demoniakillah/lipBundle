@@ -1,0 +1,29 @@
+{
+    "name": "demoniakillah/lipbundle",
+    "type": "library",
+    "description": "Lip bundle, auto generation of controllers and views based on orm entities schema",
+    "keywords": [],
+    "homepage": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Demoniakillah Hellboy"
+        },
+        {
+            "name": "Demoniakillah Hellbot",
+            "email": "demoniakillah@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "files": []
+    },
+    "autoload-dev": {
+        "psr-0": {
+        }
+    }
+}
